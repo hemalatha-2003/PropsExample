@@ -1,14 +1,16 @@
 import Demo from './Demo'
 import Events from './Events'
-//import StateExample from './StateExample'
+import JSX from './JSX'
+import StateExample from './StateExample'
 //import FuncProps from './FuncProps'
 function App(){
   return(
     <div>
-    <Events/>
+   <Events/>
+    <JSX/>
     <Demo price="1st price"/>
-    {/*<StateExample/>
-        <FuncProps carname="rollsroyce" year="2017"/>
+    <StateExample/>
+       {/* <FuncProps carname="rollsroyce" year="2017"/>
         <h1>hii</h1>*/}
       </div>
           )
