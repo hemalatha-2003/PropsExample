@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.nav{
+  background-image: url(https://media.istockphoto.com/id/837011094/photo/defocused-blurred-motion-abstract-background-orange-yellow.jpg?b=1&s=170667a&w=0&k=20&c=PPVNPKJMhYJSeNzMRBqifhXgIiFkeNLOI_jpIWlpTmg=);
+ background-repeat: no-repeat;
+}
+.nav a{
+  text-decoration: none;
+  text-colour:pink;
+  font-size: 15px;
+  text-align: justify;
+}
+.navbar{
+  display: flex;
+ }
+ .Home{
+  background-color: yellow;
+  text-align: left  ;
+ }
